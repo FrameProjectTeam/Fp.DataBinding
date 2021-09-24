@@ -1,0 +1,16 @@
+{
+  "name": "com.fp.databinding",
+  "version": "1.0.0",
+  "displayName": "Data Binding",
+  "description": "Data binding framework base on UniRx",
+  "unity": "2019.1",
+  "keywords": ["Data Binding", "MVP", "UI"],
+  "author": { "name": "Frame Project", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "license": "MIT",
+  "dependencies": {
+    "com.fp.cryptography": "https://github.com/FrameProjectTeam/Fp.Unity.Cryptography.git?path=Assets",
+    "com.fp.objectmodels": "https://github.com/FrameProjectTeam/Fp.Unity.ObjectModels.git?path=Assets",
+    "com.fp.pooling": "https://github.com/FrameProjectTeam/Fp.Unity.Pooling.git?path=Assets",
+    "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+  }
+}

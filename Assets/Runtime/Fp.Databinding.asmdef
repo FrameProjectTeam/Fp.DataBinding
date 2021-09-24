@@ -1,0 +1,19 @@
+{
+    "name": "Fp.DataBinding",
+    "rootNamespace": "Fp.DataBinding",
+    "references": [
+        "GUID:5cd5c05fe054cb74c8c61a8e929e7a19",
+        "GUID:28a57f629ad515e479711311dc5f96d6",
+        "GUID:7f9b876420ece39419c658cc6da09dee",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
